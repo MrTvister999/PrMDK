@@ -1,0 +1,106 @@
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\obj\Debug\App.g.cs
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\obj\Debug\App.baml
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page1.g.cs
+C:\Users\student\Desktop\ИСП21.1А\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page1.baml
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page1.g.cs
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\obj\Debug\App.g.cs
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\obj\Debug\App.baml
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page1.baml
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\MrTvister\Desktop\Новая папка\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page1.g.cs
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\App.baml
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page1.baml
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page2.g.cs
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page2.baml
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\pages\Pr6.g.cs
+C:\Users\Студент\Desktop\Яковлев Зорин\WpfApp1\obj\Debug\pages\Pr6.baml
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page1.g.cs
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page2.g.cs
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\pages\Pr6.g.cs
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\App.g.cs
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\App.baml
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page1.baml
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page2.baml
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\pages\Pr6.baml
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\pages\Pr7.g.cs
+C:\Users\MrTvister\Desktop\к\Яковлев Зорин\WpfApp1\obj\Debug\pages\Pr7.baml
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page1.g.cs
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page2.g.cs
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\pages\Pr6.g.cs
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\pages\Pr7.g.cs
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\App.g.cs
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\App.baml
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page1.baml
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\pages\Page2.baml
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\pages\Pr6.baml
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\pages\Pr7.baml
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\MrTvister\Desktop\Пр1,6,7\Яковлев Зорин\WpfApp1\obj\Debug\WpfApp1.pdb
